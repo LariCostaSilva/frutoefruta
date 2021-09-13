@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(rgb(255, 254, 254) , rgb(187,187,187));
+}
+
+.imagem{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+
+}
+
+.pessoas{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;  
+}

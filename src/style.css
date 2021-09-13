@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgb(255, 254, 254) , rgb(187,187,187));
+}
+
+.imagem-carrossel{
+object-fit: cover;
+object-position: 0 80%;
+height: 400px;
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial{
+    color: darkred!important;
+}
+
+.botao-cor{
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor{
+    border-color: darkred;
+}
+
+.card-largura{
+    max-width: 18rem;
+}
+
+.card-posicao-imagem{
+object-fit: cover;
+height: 200px;
+}
+
+.text-light{
+    text-decoration: none;
+}
+
